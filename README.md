@@ -7,6 +7,8 @@ Especially in the email marketing domain, the majority of ESPs direct their reso
 
 This add-on is designed to seamlessly integrate into various platforms, such as websites, CRMs, ESPs, or any software requiring a cutting-edge email editor.
 
+<img src="https://github.com/StripoEmail-blog/Plugins-or-An-Essential-Tool-for-SaaS-Companies/blob/main/Plugins%20for%20SaaS%20Companies.png" alt="Plugins for SaaS Companies" width="800">
+
 ## Who Can Benefit?
 
 ### Startups
