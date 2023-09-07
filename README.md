@@ -46,4 +46,4 @@ Companies whose focal point is email marketing can use our add-on to stay focuse
 - We offer 99.99% uptime, prioritizing stability and constant availability.
 
 ## More Information
-For an in-depth understanding, refer to the full Stripo Add-on API documentation.
+For an in-depth understanding, refer to the full <a href="https://stripo.email/" rel="dofollow">Stripo</a> Add-on API documentation.
